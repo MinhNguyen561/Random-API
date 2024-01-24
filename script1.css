@@ -1,0 +1,27 @@
+.upper {
+    background-color: rgba(55, 0, 255, 0.87);
+    height: 500px;
+}
+
+body .infor {
+    background-color: rgba(0, 0, 255, 0.438);
+    width: 50%;
+    position: absolute;
+    justify-content: center;
+    display: inline-block;
+    vertical-align: middle;
+    margin: -120 230 auto;
+    height: 350px;
+
+}
+
+.infor p {
+    justify-content: center;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.lower {
+    background-color: rgba(217, 255, 0, 0.712);
+    height: 500px;
+}
